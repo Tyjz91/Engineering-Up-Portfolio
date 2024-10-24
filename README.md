@@ -1,5 +1,5 @@
 # Arduino RC Car Project
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+This is my First Arduino Project. I created an rc car that took about 4 days to build. Below will explain more
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
