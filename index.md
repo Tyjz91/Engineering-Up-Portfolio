@@ -7,7 +7,7 @@ This is my First Arduino Project. I created an rc car that took about 4 days to 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
-# Final Milestone
+# Final Mileston
 
 My final milestone I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
